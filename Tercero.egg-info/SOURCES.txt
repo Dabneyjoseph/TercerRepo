@@ -1,0 +1,7 @@
+README.md
+setup.py
+Tercero/__init__.py
+Tercero.egg-info/PKG-INFO
+Tercero.egg-info/SOURCES.txt
+Tercero.egg-info/dependency_links.txt
+Tercero.egg-info/top_level.txt
